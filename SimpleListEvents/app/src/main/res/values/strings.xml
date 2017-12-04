@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SimpleListEvents</string>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string-array name="names">
+        <item>МОС-300</item>
+        <item>МС-315</item>
+        <item>БТС-1</item>
+        <item>БТС-2</item>
+        <item>БТС-3</item>
+        <item>ДРОБЕМЕТ-1</item>
+        <item>ДРОБЕМЕТ-2</item>
+        <item>КАЛИБРОВКА(15Т)</item>
+        <item>КАЛИБРОВКА(30Т)</item>
+        <item>11320</item>
+        <item>АЗОВ</item>
+        <item>KRRPG-1</item>
+        <item>KRRPG-2</item>
+        <item>BRAUN</item>
+        <item>ПЕЧЬ ЯМНАЯ</item>
+        <item>АО-1</item>
+        <item>АО-2</item>
+        <item>ОСТАП</item>
+    </string-array>
+</resources>

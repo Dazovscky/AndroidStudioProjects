@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.anal.art.test.MainActivity">
+
+    <LinearLayout
+        android:id="@+id/LL1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="bottom"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent">
+
+        <Button
+            android:id="@+id/ok1"
+            style="@style/Widget.AppCompat.Button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Ок"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/close"
+            style="@style/Widget.AppCompat.Button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Закрыть"
+            android:textSize="20sp" />
+    </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/Et1"
+        android:gravity="center"
+        android:text="Нажмите кнопку!!!"
+        android:textSize="40sp"/>
+
+</android.support.constraint.ConstraintLayout>
