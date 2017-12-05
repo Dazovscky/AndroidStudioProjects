@@ -1,0 +1,259 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:2:1-44:12
+MERGED from [com.android.support:design:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\3e835ece0dc8c2f10d9c48be33b5c3f9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c4e6bb34f0755bc03aef7acb0df07682\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\3b4ae081b399cc09b025cca31ce4942c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\fcac8e6303ddc5a48c0bc0a0be120f7e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\a22b4ad611b0d4bbee04098745ee15b1\AndroidManifest.xml:17:1-55:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c690bdbad73eeccdd779608ee8bd5697\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\20c26d25ec2ba74977fdf2821506a1cc\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\3fd8c9b2ccc71a66665b02f3eb455e04\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\d57f8b30f3ee828a45e49d6c25d54a53\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\5f86a3fb0ed8b151ddd951d73dff378d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\dd450291688ad38f48870aeff2fb2fa2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\fb6018ece6791cd6e9a728015d7d6861\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\44dfaa270db704423a409830e18a0ea8\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\440e20e929b41a8792aea995e77d0e17\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:5:5-42:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\3e835ece0dc8c2f10d9c48be33b5c3f9\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\3e835ece0dc8c2f10d9c48be33b5c3f9\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c4e6bb34f0755bc03aef7acb0df07682\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c4e6bb34f0755bc03aef7acb0df07682\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\3b4ae081b399cc09b025cca31ce4942c\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\3b4ae081b399cc09b025cca31ce4942c\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\fcac8e6303ddc5a48c0bc0a0be120f7e\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\fcac8e6303ddc5a48c0bc0a0be120f7e\AndroidManifest.xml:26:5-20
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\a22b4ad611b0d4bbee04098745ee15b1\AndroidManifest.xml:45:5-53:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\a22b4ad611b0d4bbee04098745ee15b1\AndroidManifest.xml:45:5-53:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c690bdbad73eeccdd779608ee8bd5697\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c690bdbad73eeccdd779608ee8bd5697\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\20c26d25ec2ba74977fdf2821506a1cc\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\20c26d25ec2ba74977fdf2821506a1cc\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\3fd8c9b2ccc71a66665b02f3eb455e04\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\3fd8c9b2ccc71a66665b02f3eb455e04\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\5f86a3fb0ed8b151ddd951d73dff378d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\5f86a3fb0ed8b151ddd951d73dff378d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\dd450291688ad38f48870aeff2fb2fa2\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\dd450291688ad38f48870aeff2fb2fa2\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\fb6018ece6791cd6e9a728015d7d6861\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\fb6018ece6791cd6e9a728015d7d6861\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\44dfaa270db704423a409830e18a0ea8\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\44dfaa270db704423a409830e18a0ea8\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\440e20e929b41a8792aea995e77d0e17\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\440e20e929b41a8792aea995e77d0e17\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:10:9-40
+activity#de.t_dankworth.secscanqr.MainActivity
+ADDED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:11:9-19:20
+	android:label
+		ADDED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:13:13-45
+	android:name
+		ADDED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:12:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:17:27-74
+activity#de.t_dankworth.secscanqr.GenerateActivity
+ADDED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:20:9-32:20
+	android:screenOrientation
+		ADDED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:23:13-49
+	android:label
+		ADDED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:22:13-54
+	android:theme
+		ADDED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:24:13-56
+	android:name
+		ADDED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:21:13-45
+intent-filter#android.intent.action.SEND+android.intent.category.DEFAULT
+ADDED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:25:13-31:29
+action#android.intent.action.SEND
+ADDED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:28:17-76
+	android:name
+		ADDED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:28:27-73
+data
+ADDED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:30:17-55
+	android:mimeType
+		ADDED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:30:23-52
+activity#de.t_dankworth.secscanqr.HistoryActivity
+ADDED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:33:9-35:56
+	android:label
+		ADDED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:35:13-53
+	android:name
+		ADDED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:34:13-44
+activity#de.t_dankworth.secscanqr.HistoryDetailsActivity
+ADDED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:36:9-38:64
+	android:label
+		ADDED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:38:13-61
+	android:name
+		ADDED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:37:13-51
+activity#de.t_dankworth.secscanqr.SettingsActivity
+ADDED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:39:9-41:72
+	android:label
+		ADDED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:41:13-60
+	android:name
+		ADDED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml:40:13-45
+uses-sdk
+INJECTED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\3e835ece0dc8c2f10d9c48be33b5c3f9\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\3e835ece0dc8c2f10d9c48be33b5c3f9\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c4e6bb34f0755bc03aef7acb0df07682\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c4e6bb34f0755bc03aef7acb0df07682\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\3b4ae081b399cc09b025cca31ce4942c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\3b4ae081b399cc09b025cca31ce4942c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\fcac8e6303ddc5a48c0bc0a0be120f7e\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\fcac8e6303ddc5a48c0bc0a0be120f7e\AndroidManifest.xml:20:5-43
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\a22b4ad611b0d4bbee04098745ee15b1\AndroidManifest.xml:19:5-43
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\a22b4ad611b0d4bbee04098745ee15b1\AndroidManifest.xml:19:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c690bdbad73eeccdd779608ee8bd5697\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c690bdbad73eeccdd779608ee8bd5697\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\20c26d25ec2ba74977fdf2821506a1cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\20c26d25ec2ba74977fdf2821506a1cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\3fd8c9b2ccc71a66665b02f3eb455e04\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\3fd8c9b2ccc71a66665b02f3eb455e04\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\d57f8b30f3ee828a45e49d6c25d54a53\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\d57f8b30f3ee828a45e49d6c25d54a53\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\5f86a3fb0ed8b151ddd951d73dff378d\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\5f86a3fb0ed8b151ddd951d73dff378d\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\dd450291688ad38f48870aeff2fb2fa2\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\dd450291688ad38f48870aeff2fb2fa2\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\fb6018ece6791cd6e9a728015d7d6861\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\fb6018ece6791cd6e9a728015d7d6861\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\44dfaa270db704423a409830e18a0ea8\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\44dfaa270db704423a409830e18a0ea8\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\440e20e929b41a8792aea995e77d0e17\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\440e20e929b41a8792aea995e77d0e17\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\3e835ece0dc8c2f10d9c48be33b5c3f9\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Artem\ApkProjects\Login2\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\3e835ece0dc8c2f10d9c48be33b5c3f9\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c4e6bb34f0755bc03aef7acb0df07682\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c4e6bb34f0755bc03aef7acb0df07682\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\3b4ae081b399cc09b025cca31ce4942c\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\3b4ae081b399cc09b025cca31ce4942c\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\fcac8e6303ddc5a48c0bc0a0be120f7e\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\fcac8e6303ddc5a48c0bc0a0be120f7e\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\20c26d25ec2ba74977fdf2821506a1cc\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\20c26d25ec2ba74977fdf2821506a1cc\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\3fd8c9b2ccc71a66665b02f3eb455e04\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\3fd8c9b2ccc71a66665b02f3eb455e04\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\d57f8b30f3ee828a45e49d6c25d54a53\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\d57f8b30f3ee828a45e49d6c25d54a53\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\5f86a3fb0ed8b151ddd951d73dff378d\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\5f86a3fb0ed8b151ddd951d73dff378d\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\dd450291688ad38f48870aeff2fb2fa2\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\dd450291688ad38f48870aeff2fb2fa2\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\fb6018ece6791cd6e9a728015d7d6861\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\fb6018ece6791cd6e9a728015d7d6861\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\44dfaa270db704423a409830e18a0ea8\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\44dfaa270db704423a409830e18a0ea8\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\440e20e929b41a8792aea995e77d0e17\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\440e20e929b41a8792aea995e77d0e17\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\3e835ece0dc8c2f10d9c48be33b5c3f9\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\3e835ece0dc8c2f10d9c48be33b5c3f9\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.CAMERA
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\a22b4ad611b0d4bbee04098745ee15b1\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\a22b4ad611b0d4bbee04098745ee15b1\AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\a22b4ad611b0d4bbee04098745ee15b1\AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\a22b4ad611b0d4bbee04098745ee15b1\AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\a22b4ad611b0d4bbee04098745ee15b1\AndroidManifest.xml:25:9-47
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\a22b4ad611b0d4bbee04098745ee15b1\AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\a22b4ad611b0d4bbee04098745ee15b1\AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\a22b4ad611b0d4bbee04098745ee15b1\AndroidManifest.xml:28:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\a22b4ad611b0d4bbee04098745ee15b1\AndroidManifest.xml:32:5-34:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\a22b4ad611b0d4bbee04098745ee15b1\AndroidManifest.xml:34:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\a22b4ad611b0d4bbee04098745ee15b1\AndroidManifest.xml:33:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\a22b4ad611b0d4bbee04098745ee15b1\AndroidManifest.xml:35:5-37:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\a22b4ad611b0d4bbee04098745ee15b1\AndroidManifest.xml:37:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\a22b4ad611b0d4bbee04098745ee15b1\AndroidManifest.xml:36:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\a22b4ad611b0d4bbee04098745ee15b1\AndroidManifest.xml:38:5-40:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\a22b4ad611b0d4bbee04098745ee15b1\AndroidManifest.xml:40:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\a22b4ad611b0d4bbee04098745ee15b1\AndroidManifest.xml:39:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\a22b4ad611b0d4bbee04098745ee15b1\AndroidManifest.xml:41:5-43:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\a22b4ad611b0d4bbee04098745ee15b1\AndroidManifest.xml:43:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\a22b4ad611b0d4bbee04098745ee15b1\AndroidManifest.xml:42:9-45
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\a22b4ad611b0d4bbee04098745ee15b1\AndroidManifest.xml:46:9-52:63
+	android:screenOrientation
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\a22b4ad611b0d4bbee04098745ee15b1\AndroidManifest.xml:49:13-56
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\a22b4ad611b0d4bbee04098745ee15b1\AndroidManifest.xml:48:13-45
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\a22b4ad611b0d4bbee04098745ee15b1\AndroidManifest.xml:50:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\a22b4ad611b0d4bbee04098745ee15b1\AndroidManifest.xml:52:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\a22b4ad611b0d4bbee04098745ee15b1\AndroidManifest.xml:51:13-54
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Artem\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\a22b4ad611b0d4bbee04098745ee15b1\AndroidManifest.xml:47:13-74

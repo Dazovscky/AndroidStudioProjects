@@ -1,0 +1,4 @@
+#Tue Dec 05 21:41:20 EET 2017
+base.0=C\:\\Users\\Artem\\ApkProjects\\Login2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
